@@ -2,7 +2,6 @@
 
 
 - 🔭 Técnico em Desenvolvimeto de Sistemas
-- 🧐 Cursando Ciência da Computação
 - ⚛ Estudando React e Typescript
 - 😄 Pronomes: ele/dele
 - 🎨 Desenvolvedor Front End, Web Designer, Designer Gráfico, Ilustrador e mais algumas coisinhas
