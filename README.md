@@ -2,17 +2,16 @@
 
 
 - 🔭 Técnico em Desenvolvimeto de Sistemas
-- ⚛ Estudando React e Typescript
 - 😄 Pronomes: ele/dele
-- 🎨 Desenvolvedor Front End, Web Designer, Designer Gráfico, Ilustrador e mais algumas coisinhas
+- 🎨 Desenvolvedor Front End, apaixonado por artes e tecnologia
 - 🪐 Fato legal: gosto do planeta Saturno
 
 <br>
  
 <div align="center">
-	<a href="https://github.com/Laquinui">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laquinui&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laquinui&layout=compact&langs_count=7&theme=jolly"/>
+	<a href="https://github.com/laerte-quinui">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laerte-quinui&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laerte-quinui&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 	
 <br>
