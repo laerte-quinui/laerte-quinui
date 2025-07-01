@@ -1,26 +1,17 @@
-## Oi oi! Eu sou o Laerte
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="40" height="40" /> Hi there, I'm Laerte! 
+#### Frontend developer and UI/UX designer
+[![My Skills](https://skillicons.dev/icons?i=ts,react,next,vite,materialui,styledcomponents,tailwind,figma&theme=dark)](https://skillicons.dev)
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> About me
+- Passionate about arts and technology
+- Systems development technician
+- Studying a bachelor's degree in information technology at Univesp
+- Love to learn new things to keep improving my knowledge
 
-- 🔭 Técnico em Desenvolvimeto de Sistemas
-- 😄 Pronomes: ele/dele
-- 🎨 Desenvolvedor Front End, apaixonado por artes e tecnologia
-- 🪐 Fato legal: gosto do planeta Saturno
-
-<br>
- 
-<div align="center">
-	<a href="https://github.com/laerte-quinui">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laerte-quinui&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laerte-quinui&layout=compact&langs_count=7&theme=jolly"/>
-</div>
-	
-<br>
-	
-<div align="center">
-	<img alt="Laerte-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-	<img alt="Laerte-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />    
-	<img alt="Laerte-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	<img alt="Laerte-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	<img alt="Laerte-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-	<img alt="Laerte-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> My links
+<a target="_blank" href="https://www.linkedin.com/in/laerte-quinui/">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a target="_blank" href="mailto:laertequinuio@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-DD2251?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
